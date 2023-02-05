@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web-programing
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @yasha_hamdania
+- 📫 How to reach me yashahamdani@gmail.com
 
 <!---
 FaYaDan/FaYaDan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
