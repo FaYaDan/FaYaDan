@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @FaYaDan
-- 👀 I’m interested in Web-programing
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Yasha Hamdani
+- 👀 I’m interested in Machine Learning Developer
+- 🌱 you can reach me by my email or send message
 - 📫 How to reach me yashahamdani@gmail.com
 
 <!---
